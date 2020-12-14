@@ -1,6 +1,6 @@
 # Unit 12—Tales from the Crypto
 
-![Stock Sentiment](Images/btc.jpeg)
+![Stock Sentiment](Images/btc.jpg)
 
 ## Background
 
@@ -18,25 +18,25 @@ A: Ethereum had the highest positive score 0.318 compared to BitCoin at 0.174
 
 ## Top 10 words for Bitcoin with their Frequencies
 
-('currency', 9),
-('reuters', 9),
-('photo', 8),
-('file', 7),
-('representation', 7),
-('virtual', 7),
-('illustration', 6),
-('reutersdado', 6),
-('cryptocurrency', 5),
-('taken', 5)]
+* ('currency', 9),
+* ('reuters', 9),
+* ('photo', 8),
+* ('file', 7),
+* ('representation', 7),
+* ('virtual', 7),
+* ('illustration', 6),
+* ('reutersdado', 6),
+* ('cryptocurrency', 5),
+* ('taken', 5)]
 
 ## Top 10 words for Ethereum with their Frequencies
-('reuters', 15),
-('photo', 10),
-('currency', 10),
-('representation', 9),
-('virtual', 9),
-('illustration', 8),
-('reutersdado', 8),
-('file', 7),
-('seen', 7),
-('taken', 7)]
+* ('reuters', 15),
+* ('photo', 10),
+* ('currency', 10),
+* ('representation', 9),
+* ('virtual', 9),
+* ('illustration', 8),
+* ('reutersdado', 8),
+* ('file', 7),
+* ('seen', 7),
+* ('taken', 7)]
